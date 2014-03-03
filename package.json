@@ -1,0 +1,26 @@
+{
+  "name": "nikemiherokonodejstest",
+  "version": "0.0.0",
+  "description": "descriptiontext",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikemi01/nikemiherokunodejstest.git"
+  },
+  "keywords": [
+    "nikemi"
+  ],
+  "author": "nikemi01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikemi01/nikemiherokunodejstest/issues"
+  },
+  "homepage": "https://github.com/nikemi01/nikemiherokunodejstest",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.4.8"
+  }
+}
